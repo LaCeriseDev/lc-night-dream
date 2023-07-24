@@ -1,0 +1,26 @@
+{
+  "name": "lc-night-dream",
+  "displayName": "LC Night Dream",
+  "description": "A dark theme deisgned by LaCerise",
+  "version": "0.0.1",
+  "publisher": "LaCerise",
+  "author" : {
+    "name": "LaCerise"
+  },
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "images/icon.jpg",
+  "contributes": {
+    "themes": [
+      {
+        "label": "LC Night Dream",
+        "uiTheme": "vs-dark",
+        "path": "./themes/LC Night Dream-color-theme.json"
+      }
+    ]
+  }
+}
