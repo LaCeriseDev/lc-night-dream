@@ -3,9 +3,9 @@
   "name": "lc-night-dream",
   "displayName": "LC Night Dream",
   "description": "A dark theme deisgned by LaCerise",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "LaCerise",
-  "author" : {
+  "author": {
     "name": "LaCerise"
   },
   "engines": {
