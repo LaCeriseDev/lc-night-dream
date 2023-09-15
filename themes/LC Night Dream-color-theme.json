@@ -1904,7 +1904,7 @@
 	  "menubar.selectionForeground": "#00cfff",
 	  "menubar.selectionBackground": "#252526",
 	  "menubar.selectionBorder": "#ffffff",
-	  "menu.foreground": "#ffffff",
+	  "menu.foreground": "#7333ff",
 	  "menu.background": "#252526",
 	  "menu.selectionForeground": "#ffffff",
 	  "menu.selectionBackground": "#5c08d7",
@@ -1956,11 +1956,11 @@
 	  "editorIndentGuide.activeBackground": "#2000ff76",
 	  "editorRuler.foreground": "#0f0f0f",
 	  "editorBracketMatch.background": "#8b00ff",
-	  "editorBracketMatch.border": "#00d9ff",
+	  "editorBracketMatch.border": "#d290ff",
 	  "editor.foldBackground": "#707d8a4d",
 	  "editorOverviewRuler.background": "#ff000000",
 	  "editorOverviewRuler.border": "#0226e84d",
-	  "editorError.foreground": "#ff009b",
+	  "editorError.foreground": "#ff0060",
 	  "editorError.background": "#131313",
 	  "editorError.border": "#06060600",
 	  "editorWarning.foreground": "#00ff7c",
@@ -1988,7 +1988,7 @@
 	  "panelTitle.inactiveForeground": "#99999999",
 	  "badge.background": "#ff006c",
 	  "badge.foreground": "#ffffff",
-	  "terminal.foreground": "#80b43b",
+	  "terminal.foreground": "#ff0054",
 	  "terminal.selectionBackground": "#00000000",
 	  "terminalCursor.background": "#5000ff",
 	  "terminalCursor.foreground": "#f9f9f9",
@@ -2113,6 +2113,7 @@
 	  "breadcrumb.activeSelectionForeground": "#6800ff",
 	  "editorGutter.commentRangeForeground": "#0028ff",
 	  "debugExceptionWidget.background": "#080808",
-	  "debugExceptionWidget.border": "#6800ff"
+	  "debugExceptionWidget.border": "#6800ff",
+	  "htmlEndTagLabels.labelColor": "#a2c2e2b3"
 	}
   }
